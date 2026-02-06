@@ -20,7 +20,7 @@ Edit City:
 
 Delete City:
 1. Tap Delete Button
-2. Enter the City you to delete (Case Sensitive)
+2. Enter the City you want to delete (Case Sensitive)
 3. Tap Delete Again to confirm
 
 ## References and Resources
